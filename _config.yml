@@ -5,8 +5,8 @@ description: "Collection of everythings I want to record down especially for tec
 logo: logo.jpg # 120x120 px default image used for Twitter summary card
 teaser: default.jpg # 400x250 px default teaser image used in image archive grid
 locale:
-baseurl: /blogtest/
-url: http://xiaorisu.github.io/blogtest
+baseurl:
+url: https://xiaorisu.github.io/blogtest
 
 # Jekyll configuration
 
